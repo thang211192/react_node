@@ -1,0 +1,5 @@
+npm install express-generator -g
+express project_name -e
+npm install
+connect : npm install pg
+npm install axios
